@@ -1,6 +1,6 @@
 # Dashboard Wiso
  
- <img align="center" src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/Wiso.gif" height=800/>
+ <img align="center" src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/Wiso.gif" height=200/>
  
  <div style="display:inline_block">
  <h3>Tecnologias usadas</h3>
