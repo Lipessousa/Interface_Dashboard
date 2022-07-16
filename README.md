@@ -1,4 +1,4 @@
-<h1 align="center">Wiso Dashoard</h1>
+<h1 align="center">Interface Dashoard</h1>
 
 <h4 align="center">
   <img src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/Wiso.gif" alt="logo" height="150"/>
