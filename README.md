@@ -21,7 +21,6 @@
 
 <h5>Projeto em andamento </h5>
 
-<br>
 
 <h2>Demonstração</h2>
 <img src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/print_dashboard.PNG" />
