@@ -1,6 +1,6 @@
 # Dashboard Wiso
  
- <img align="center" src=""/>
+ <img align="center" src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/Wiso.gif" height=800/>
  
  <div style="display:inline_block">
  <h3>Tecnologias usadas</h3>
@@ -11,3 +11,4 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
 </div>
  
+ Ao baixar a pasta, lembre-se de usar o comando npm install no seu terminal para baixar as dependências do node_modules
