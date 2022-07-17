@@ -6,7 +6,7 @@
 
 <h2>Requisitos</h2>
 <h3>Ao baixar a pasta, usar o comando npm install no seu terminal para baixar as dependências do node_modules<h3/>
-<h3>Usar a CDN do Boostrap5 (JS/CSS)<h3/>
+<h3>Usar a CDN do Bootstrap5 (JS/CSS)<h3/>
 
  <div style="display:inline_block">
  <h3>Tecnologias usadas</h3>
