@@ -1,0 +1,12 @@
+.grafico{
+    padding: 2%;
+    background-color: rgb(20, 20, 20);
+    height: 100%;
+}
+
+
+@media(max-width: 756px){
+    .grafico{
+        width: 325px;
+    }
+}
