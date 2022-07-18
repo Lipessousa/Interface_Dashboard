@@ -4,7 +4,7 @@
   <img src="https://github.com/Lipessousa/Interface_Dashboard/blob/main/Interface_Dashboard/images/Wiso.gif" alt="logo" height="120"/>
 </h4>
 
-<h1Requisitos</h1>
+<h1>Requisitos</h1>
 <h3>Ao baixar a pasta, usar o comando npm install no seu terminal para baixar as dependências do node_modules<h3/>
 <h3>Usar a CDN do Bootstrap5 (JS/CSS)<h3/>
 
