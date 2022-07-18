@@ -8,8 +8,8 @@
 <h3>Ao baixar a pasta, usar o comando npm install no seu terminal para baixar as dependências do node_modules<h3/>
 <h3>Usar a CDN do Bootstrap5 (JS/CSS)<h3/>
 
- <div style="display:inline_block">
- <h3>Tecnologias usadas</h3>
+<div style="display:inline_block">
+  <h3>Tecnologias usadas</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -20,7 +20,6 @@
 <h4>✅ Responsivo</h4>
 
 <h5>Projeto em andamento </h5>
-
 
 <h2>Demonstração</h2>
 <img src="https://github.com/Lipessousa/Interface_Dashboard/blob/main/Interface_Dashboard/images/dashboard_print.PNG" />
