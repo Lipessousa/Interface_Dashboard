@@ -23,4 +23,4 @@
 
 
 <h2>Demonstração</h2>
-<img src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/print_dashboard.PNG" />
+<img src="https://github.com/Lipessousa/Interface_Dashboard/blob/main/Interface_Dashboard/images/dashboard_print.PNG" />
