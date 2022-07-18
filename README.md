@@ -1,7 +1,7 @@
 <h1 align="center">Interface Dashoard</h1>
 
 <h4 align="center">
-  <img src="https://github.com/Lipessousa/Dashboard_wiso/blob/main/Dashboard_wiso/images/Wiso.gif" alt="logo" height="120"/>
+  <img src="https://github.com/Lipessousa/Interface_Dashboard/blob/main/Interface_Dashboard/images/Wiso.gif" alt="logo" height="120"/>
 </h4>
 
 <h2>Requisitos</h2>
