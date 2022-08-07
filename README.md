@@ -22,7 +22,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
 </div>
 
-<h4>✅ Responsivo</h4>
 
 <h5>Projeto em andamento </h5>
 
