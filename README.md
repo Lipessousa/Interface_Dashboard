@@ -24,6 +24,7 @@
 
 
 <h5>Projeto em andamento </h5>
+<h5>Hospedagem : https://wiso-cotacao.netlify.app</h5>
 
 <h2>Demonstração</h2>
 <img src="https://github.com/Lipessousa/Interface_Dashboard/blob/main/Interface_Dashboard/images/dashboard_print.PNG" />
