@@ -8,7 +8,7 @@
  the main objective here was consume the data from the <a href="https://docs.awesomeapi.com.br/api-de-moedas">AwesomeAPI</a>.
 </p>
 
-<h1>Requisitos</h1>
+<h1>Steps</h1>
 <h3>After downloading the folder, use 'npm install' in your terminal to download the dependencies from node_modules<h3/>
 <h3>Remeber to run npm install chart.js react-chartjs-2 to download the libs used on the charts constrocution</h3>
 <h3>Don't forget to get the Boostrap5 CDN(JS/CSS)<h3/>
