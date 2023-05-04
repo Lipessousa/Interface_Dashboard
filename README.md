@@ -10,7 +10,7 @@
 
 <h1>Steps</h1>
 <h3>After downloading the folder, use 'npm install' in your terminal to download the dependencies from node_modules<h3/>
-<h3>Remeber to run npm install chart.js react-chartjs-2 to download the libs used on the charts constrocution</h3>
+<h3>Remeber to run npm install chart.js react-chartjs-2 to download the libs used on the charts construction</h3>
 <h3>Don't forget to get the Boostrap5 CDN(JS/CSS)<h3/>
 
 <div style="display:inline_block">
