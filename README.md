@@ -24,7 +24,6 @@
 
 
 <h5>ongoing project</h5>
-<h5>Hosting : https://wiso-cotacao.netlify.app</h5>
 
 <h2>Demo</h2>
 <img src="https://github.com/Lipessousa/Interface_Dashboard/blob/main/Interface_Dashboard/images/dashboard_print.PNG" />
